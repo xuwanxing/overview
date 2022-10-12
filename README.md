@@ -1,6 +1,9 @@
 # Readme
 
-### Hi, I'm Wanxing Xu. 👋
+### Hi, I'm Wanxing Xu.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=xuwanxing&show_icons=true&hide_border=true">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuwanxing&hide_border=true">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuwanxing&theme=cobalt2&show_icons=true)
+
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xuwanxing&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuwanxing)](https://github.com/xuwanxing/github-readme-stats)
