@@ -1,11 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello%2C+world!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hello%2C+world!)](https://git.io/typing-svg)
 
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xuwanxing&show_icons=true)
 
-![](https://img.shields.io/badge/-Shell-000000?style=style=flat-square&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/-Python-FADC6A?style=flat-square&logo=python)
-![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuwanxing&layout=compact)
-
-[![](https://activity-graph.herokuapp.com/graph?username=xuwanxing&theme=github)](https://activity-graph.herokuapp.com/graph?username=xuwanxing&theme=github)
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
